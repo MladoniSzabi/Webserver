@@ -1,0 +1,4 @@
+libwebserver.a
+test/test
+.vscode/
+out/

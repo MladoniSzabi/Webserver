@@ -1,0 +1,1 @@
+g++ -g test/*.cpp -I./include --std=c++20 -L. -lwebserver -lpthread -lcrypto -lcurl -o test/test
